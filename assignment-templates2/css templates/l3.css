@@ -1,0 +1,21 @@
+#id1
+{
+    background-color: hsl(180, 2%, 84%);
+}
+#id2
+{
+    background-color: white;
+    width: 400px;
+    height: 250px;
+    margin-left: 550px;
+    margin-top:200px;
+    border-style: solid;
+    border-radius: 15px;
+    border-color:white;
+    text-align: center;
+    font-family: sans-serif;
+}
+button{
+    background-color: rgb(108, 238, 108);
+    width: 165px;
+}

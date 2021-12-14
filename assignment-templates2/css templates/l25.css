@@ -1,0 +1,33 @@
+#id1
+{
+    margin: 10px;
+}
+#id2
+{
+    background-color: turquoise;
+    width: 550px;
+    height: 1100px;
+    margin-left: 450px;
+    padding-left: 20px;
+}
+#id3
+{
+    width: 421px;
+    height: 30px;
+    margin: 10px;
+}
+#id4
+{
+    width: 200px;
+    height: 30px;
+    margin: 10px;
+}
+button
+{
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+    height: 35px;
+    width: 250px;
+    margin-inline-start: 150px;
+}

@@ -1,0 +1,28 @@
+#id1 {
+    background-color: steelblue;
+    font-family: sans-serif;
+}
+#id2 {
+    border-style:solid;
+    width: 400px;
+    height: 220px;
+    border-color: #3f028f;
+    border-radius: 15px;
+    background-color: white;
+    margin-left: 550px;
+    margin-top: 200px;
+    text-align: center;
+}
+button {
+    font-family: sans-serif;
+    background-color: rgb(91, 235, 91);
+    padding-left: 35px;
+    padding-right: 35px;
+}
+#id3
+{
+    height: 35px;
+}
+#id4{
+    margin-left: 600px;
+}

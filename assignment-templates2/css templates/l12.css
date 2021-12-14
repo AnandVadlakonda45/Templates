@@ -1,0 +1,31 @@
+#id1{
+    background-color: bisque;
+    font-family: sans-serif;
+    scroll-padding-inline-start: 25px;
+}
+#id2{
+    height: 30px;
+    width: 522px;
+}
+#id3{
+    width: 600px;
+    height: 600px;
+    margin-left: 430px;
+    padding-top: 30px;
+}
+#id4{
+    background-color: red;
+    margin-left: 400px;
+    height: 30px;
+    width: 75px;
+    border-radius: 15px;
+    color: white;
+}
+#id5{
+    background-color: white;
+    width: 150px;
+    height: 50px;
+    text-align: center;
+    padding-top: 10px;
+    margin-left: 150px;
+}

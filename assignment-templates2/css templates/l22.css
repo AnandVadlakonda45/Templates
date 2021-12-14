@@ -1,0 +1,36 @@
+#id1{
+    background-color: white;
+}
+#id2
+{
+    background-color: white;
+    width: 600px;
+    height: 550px;
+    margin-left: 550px;
+    margin-top: 100px;
+    border: 1px grey;
+    color: grey;
+    font-family: normal;
+}
+#id3{
+    background-color: rgba(110, 107, 107, 0.486);
+    height: 35px;
+    width: 200px;
+    margin-inline-start: 100px;
+}
+input[type="radio"]
+{
+    margin: 8px;
+}
+#id4
+{
+    margin: 8px;
+    height: 30px;
+    width: 190px;
+}
+#id5
+{
+    margin: 8px;
+    height: 30px;
+    width: 400px;
+}

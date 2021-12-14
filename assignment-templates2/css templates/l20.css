@@ -1,0 +1,36 @@
+#id1{
+    background-color: white;
+}
+#id2
+{
+    background-color: cornsilk;
+    width: 600px;
+    height: 535px;
+    margin-left: 400px;
+    margin-top: 100px;
+    border: 1px solid grey;
+}
+label{
+    margin: 10px;
+}
+#id3
+{
+    margin: 10px;
+    width: 550px;
+    height: 35px;
+}
+#id4
+{
+    background-color: darkblue;
+    width: 550px;
+    height: 35px;
+    color: white;
+    margin: 10px;
+}
+#id5
+{
+    background-color: transparent;
+    color: blue;
+    margin: 10px;
+    border-style: none;
+}

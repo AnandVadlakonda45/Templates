@@ -1,0 +1,59 @@
+#id1
+{
+    width: 730px;
+    height: 750px;
+    margin-left: 350px;
+    background-color: white;
+    padding-left: 30px;
+    margin-top: -23px;
+    padding-block-start: 10px;  
+}
+#id2
+{
+    background-color: cornflowerblue;
+}
+#id3
+{
+    background-color: blue;
+    color: white;
+    width: 100px;
+    height: 30px;
+    border-radius: 15px;
+    margin-left: 550px;
+}
+#id4
+{
+    color: red;
+    border:1px thin red;
+}
+#id5
+{
+    color:rgb(65, 226, 65);
+    border: 1px thin rgb(65, 226, 65);
+}
+#id6
+{
+    width: 200px;
+    height: 35px;
+    margin-left: 200px;
+    background-color: rgb(219, 212, 212);
+    border: 1px thin grey;
+}
+#id7
+{
+    width: 700px;
+    height: 30px;
+}
+textarea
+{
+    width: 700px;
+}
+#id8
+{
+    background-color: rgb(5, 5, 61);
+    color: white;
+    font-weight: bold;
+    width: 760px;
+    margin-left: 350px;
+    text-align: center;
+}

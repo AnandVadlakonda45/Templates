@@ -1,0 +1,40 @@
+#id1 {
+    background-color: steelblue;
+    font-family: sans-serif;
+}
+#id2 {
+    border-style:solid;
+    width: 400px;
+    height: 220px;
+    border-color: #3f028f;
+    background-color: white;
+    margin-left: 500px;
+    margin-top: 200px;
+    padding-inline-start: 25px;
+}
+button {
+    font-family: sans-serif;
+    background-color: rgb(91, 235, 91);
+    padding-left: 35px;
+    padding-right: 35px;
+}
+#id3
+{
+    height: 35px;
+    width: 380px;
+}
+#id4{
+    margin-left: 250px;
+    margin-top: -12px;
+}
+#id5{
+    background-color: steelblue;
+    border-color: #3f028f;
+    border-bottom-color:steelblue;
+    border-top-color: white ;
+    border-style: solid;
+    width: 425px;
+    height: 100px;
+    margin-left: 500px;
+    margin-top: -50px;
+}

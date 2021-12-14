@@ -1,0 +1,39 @@
+#id1{
+    background-color: sandybrown;
+}
+#id2
+{
+    background-color: whitesmoke;
+    width: 500px;
+    height: 330px;
+    border: 1px solid white;
+    border-radius: 10px;
+    margin-left: 495px;
+    margin-top: 150px;
+    padding-top: 10px;
+    text-align: center;
+}
+#id3{
+    width: 400px;
+    height: 45px;
+    background-color: orange;
+}
+#id4
+{
+   margin-left: 20px;
+}
+#id5{
+    height: 30px;
+    width: 400px;
+}
+#id7{
+    text-align: center;
+}
+#id8{
+    width: 20px;
+    height: 20px;
+}
+#id9{
+    margin-left: 520px;
+    color: black;
+}

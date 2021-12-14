@@ -1,0 +1,21 @@
+#id1
+{
+    background-color: orange;
+}
+#id2
+{
+    background-color: white;
+    width: 400px;
+    height: 200px;
+    margin-left: 550px;
+    margin-top: 200px;
+    border-color: rgb(255, 208, 0);
+    border-style: solid;
+    border-radius: 15px;
+    text-align: center;
+}
+button{
+    width: 165px;
+    background-color: orange;
+
+}

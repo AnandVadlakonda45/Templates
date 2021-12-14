@@ -1,0 +1,23 @@
+label{
+    width: 100px;
+    display: inline-block;
+    margin: 10px;
+    text-align: right;
+}
+#body{
+    background-color: yellowgreen;
+}
+#id1{
+    width: 380px;
+    height: 400px;
+    margin-left: 350px;
+    background-color: white;
+    border: solid 1px grey;
+}
+#id2{
+    width: 100px;
+    height: 35px;
+    background-color: blue;
+    color: white;
+    margin-left: 130px;
+}

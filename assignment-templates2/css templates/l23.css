@@ -1,0 +1,40 @@
+#id1
+{
+    margin-left: 200px;
+    margin-top: -200px;
+}
+#id2
+{
+    width: 600px;
+    height: 750px;
+    margin-left: 500px;
+    background-color: red;
+}
+input[type="text"]
+{
+    margin: 10px;
+}
+input[type="date"]
+{
+    margin: 10px;
+}
+button{
+    background-color: grey;
+    color: white;
+    margin-inline-start: 250px;
+    height: 35px;
+}
+#id3
+{
+    height: 30px;
+    width: 500px;
+}
+#id4
+{
+    height: 35px;
+    width: 237px;
+}
+#id5{
+    height: 30px;
+    width: 215px;
+}
