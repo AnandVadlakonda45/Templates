@@ -1,0 +1,59 @@
+#id1
+{
+    background-color: blue;
+}
+#id2
+{
+    width:500px;
+    height:400px;
+    border:2px solid;
+    margin-left:510px;
+    background-color: rgb(67, 87, 179);
+    
+}
+h1{
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    margin-left:470px;
+    margin-top:50px;
+}
+#id3
+{
+    width:100%;
+}
+#id4
+{
+      border:0px solid;
+      padding-left:15px;
+      padding-right:15px;
+      background: cornsilk;
+      text-decoration: none;
+      margin-left:0px;
+      
+      
+}
+input[type=text],input[type=password]
+{
+    width:350px;
+    height:30px;
+    padding:5px;
+    background-color: rgb(182, 121, 218);
+    
+
+}
+button{
+    background-color: red;
+    padding-left: 30px;
+    padding-right:30px;
+    color:white;
+}
+::placeholder
+{
+    color:white;
+}
+#id4:hover
+{
+    
+background-color: orange;
+
+}

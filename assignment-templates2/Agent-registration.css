@@ -1,0 +1,185 @@
+#id1
+{
+    width:90%;
+    height:90%;
+    border:0px solid;
+    margin-top:50px;
+    margin-left:50px;
+    background-color:white;
+    box-shadow: gray 5px 5px 15px;
+
+}
+th{
+    border:1px solid;
+    padding-top:5px;
+    padding-bottom:5px;
+    width:337px;
+    display: inline-block;
+    padding-right: 1px;
+    text-align: left;
+
+}
+.a
+{
+ text-decoration: none;
+ color:black;
+         
+}
+#id2
+{
+    border-left:0px ;
+}
+#id3
+{
+    border-right:0px ;
+
+}
+#id4
+{
+    color:green;
+    border-bottom:4px green solid;
+    
+}
+#id5
+{
+    color:green;
+}
+h3{
+    margin-left:10px;
+}
+#id6{
+    margin-left:10px;
+}
+#id7
+{
+    margin-left:348px;
+}
+input[type=text],input[type=password],input[type=number],input[type=email]
+{
+    width:400px;
+    height:40px;
+}
+#id8
+{
+    margin-left:50px;
+}
+#id9
+{
+    margin-left:50px;
+}
+#id10
+{
+    margin-left:355px;
+}
+input[type=name]
+{
+   width:199px;
+   height:40px;
+}
+#id11
+{
+    margin-left:388px;
+}
+#id12
+{
+    margin-left:164px;
+}
+#id13
+{
+    margin-left:203px;
+}
+#id14
+{
+    margin-left:327px; 
+   }
+#id15
+{
+    margin-left:380px;
+}
+#id16
+{
+    margin-left:335px; 
+   }
+#id17
+{
+    margin-left:355px;
+}
+#id18
+{
+    margin-left:458px;
+    margin-top:-40px;
+    width:400px;
+    height:40px;
+    background-color: whitesmoke;
+    border:0px solid;
+
+}
+#id19
+{
+    margin-left:50px;
+    margin-top:10px;
+}
+#id20
+{
+    margin-left:150px;
+}
+#id21
+{
+    margin-left:910px;
+    margin-top:-40px;
+}
+h5{
+    margin-left:10px;
+    
+    opacity: 0.6;
+}
+#id22
+{
+    margin-left:910px;
+    margin-top:-40px;
+    width:400px;
+    height:40px;
+    background-color: whitesmoke;
+    border:0px solid;
+    text-align: center;
+
+}
+#id23
+{
+    margin-top:10px;
+}
+#id24
+{
+    float: right;
+    margin-right:10px;
+    padding-left:15px;
+    padding-right:15px;
+    padding-top:5px;
+    padding-bottom:5px;
+    background-color: violet;
+    color:white;
+    border:0px solid;
+}
+#id25
+{
+    float: right;
+    margin-right:50px;
+    padding-left:15px;
+    padding-right:15px;
+    padding-top:5px;
+    padding-bottom:5px;
+    background-color: green;
+    color:white;
+    border:0px solid;
+
+}
+h1{
+    margin-left:10px;
+    
+}
+::placeholder
+{
+ 
+ font-weight: bold;
+ 
+}

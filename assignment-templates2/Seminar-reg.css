@@ -1,0 +1,33 @@
+#id1
+{
+    width:800px;
+    height: 800px;
+    border:0px solid;
+    margin-left: 350px;
+}
+input[type=name],select,input[type=number],input[type=email]
+{
+    width:49%;
+    height:30px;
+}
+input[type=text]
+{
+    width:99%;
+    height:30px;
+}
+#id2
+{
+    margin-left:250px;
+} 
+#id3
+{
+    margin-left:355px;
+}
+button
+{
+    background-color: rgb(51, 48, 48);
+    color:white;
+    padding-left:10px;
+    padding-right:10px;
+    margin-left:370px;
+}

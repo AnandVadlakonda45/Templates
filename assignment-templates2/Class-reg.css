@@ -1,0 +1,40 @@
+#id1
+{
+    width:800px;
+    height:1000px;
+    border:0px solid;
+    margin-left: 350px;
+
+}
+#id2
+{
+   margin-left:167px;
+
+}
+input[type=name]
+{
+    width:230px;
+    height:30px;
+}
+h1{
+    margin-left:30px;
+}
+#id3
+{
+    margin-left:30px;
+}
+select,input[type=text],input[type=email]
+{
+    margin-left:30px;
+    height:30px;
+    width:300px;
+
+}
+h3
+{
+    margin-left:30px;
+}
+#id4
+{
+    margin-left: 150px;
+}

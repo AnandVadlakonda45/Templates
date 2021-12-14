@@ -1,0 +1,112 @@
+#id1
+{
+    background:url('travel1.jpg') no-repeat;
+    background-size: cover;
+}
+#id2
+{
+width:1000px;
+height:600px;
+border:0px solid;
+position: absolute;
+top:80px;
+left:300px;
+box-shadow: 5px 5px 20px gray;
+background-color:whitesmoke;
+}
+#id3
+{
+width:400px;
+height:400px;
+border:0px solid;
+float:left;
+margin-top:100px;
+margin-left:90px;
+background-color: white;
+}
+#id4
+{
+width:400px;
+height:400px;
+border:0px solid;
+float:left;
+margin-top:100px;
+background-color:rgb(58, 69, 231);
+border-radius: 5px;
+}
+h3{
+margin-left:20px;
+color:white;
+}
+input[type=text]
+{
+margin-left:20px;
+width:350px;
+height:30px;
+padding:10px;
+padding-bottom:15px;
+padding-top:15px;
+border-radius:5px;
+}
+#id5
+{
+margin-left:20px;
+
+}
+#id6
+{
+width:350px;
+background-color:yellowgreen;
+color:white;
+padding:12px;
+border-radius:10px;
+margin-left: 20px;
+font-size: large;
+color:blue;
+font-weight: bolder;
+
+}
+#id7
+{
+margin-left:90px;
+color:white;
+}
+.c1
+{
+text-decoration: none;
+color:white;
+}
+#id8
+{
+color:white;
+}
+#id9
+{
+float: left;
+margin-left:300px;
+margin-top:30px;
+
+}
+.c2
+{
+text-decoration: none;
+}
+#id10
+{
+font-weight: bolder;
+font-size:xx-large;
+text-align: center;
+position: relative;
+top:50px;
+left:-150px;
+
+}
+#id11
+{
+
+font-size:xx-large;
+text-align: center;
+position: relative;
+top:50px;
+left:-150px;
+}

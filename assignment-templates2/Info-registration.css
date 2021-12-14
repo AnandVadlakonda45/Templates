@@ -1,0 +1,95 @@
+#id1
+{
+    background-color: rgb(127, 167, 241);
+}
+#id2
+{
+    width:400px;
+    height:500px;
+    border:0px solid;
+    float: left;
+    margin-top:100px;
+    margin-left: 300px;
+    background-color: rgb(96, 28, 126);
+    box-shadow: 5px 5px 15px gray;
+
+    
+
+}
+#id3
+{
+    width:400px;
+    height:500px;
+    border:0px solid;
+    float:left;
+    margin-top: 100px; 
+    background-color: white;
+    box-shadow: 5px 5px 15px gray;
+}
+.c1
+{
+    margin-left:30px;
+    color: white;
+}
+#id4
+{
+    color:white;
+    margin-left: 30px;
+}
+#id5
+{
+    width:150px;
+    padding:10px;
+    color:blue;
+    background-color: white;
+    margin-left: 30px;
+    border:0px solid;
+    border-radius: 6px;
+}
+#id6
+{
+    text-transform: capitalize;
+    color:darkorchid;
+    margin-left:30px;
+}
+.c2
+{
+    margin-left:30px;
+
+}
+#id7
+{
+    margin-left:120px;
+}
+input[type=text],input[type=password]
+{
+    width:40%;
+    margin-left:30px;
+    height:30px;
+}
+input[type=email]
+{
+    width:88%;
+    height:30px;
+    margin-left:30px;
+}
+#id8
+{
+    margin-left:130px;
+}
+#id9
+{
+       margin-left: 220px;
+       color:rgb(228, 228, 54);
+       font-weight: bolder;
+
+}
+#id10
+{
+    width:100px;
+    background-color: darkorchid;
+    color:white;
+    padding:10px;
+    margin-left: 30px;
+
+}

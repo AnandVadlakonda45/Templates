@@ -1,0 +1,64 @@
+#id1{
+    text-align: center;
+    color:violet;
+}
+#id2
+{
+    width:600px;
+    height:600px;
+    margin-left:450px;
+    margin-top:50px;
+    border:0px solid;
+}
+#id3
+{
+    text-align:center;
+    background-color: whitesmoke;
+    padding-top:10px;
+    padding-bottom:10px;
+}
+#id4
+{
+    width:90%;
+    height:60%;
+    border:0px solid;
+    margin-left:25PX;
+    
+
+}
+#id5
+{
+    margin-left:250px;
+}
+input[type=name]
+{
+    width:49%;
+    height:30px;
+}
+input[type=text],input[type=email]
+{
+    width:99%;
+    height:30px;
+}
+input[type=number]
+{
+   width:160px;
+   height:30px;
+}
+#id6
+{
+    margin-left:230px;
+}
+#id7
+{
+    margin-left:80px;
+}
+input[type=city]
+{
+    width:250px;
+    height:30px;
+}
+select{
+    width:100px;
+    height:30px;
+}

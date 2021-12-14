@@ -1,0 +1,33 @@
+#id1
+{
+   
+   width:800px;
+   height:1200px;
+   position: absolute;
+   left:450px;
+   text-align: left;
+
+
+}
+input[type=Address],input[type=phnumber],input[type=email],input[type=date]
+{
+    width:800px;
+    height:30px;
+}
+button{
+    background-color: rgb(4, 54, 54);
+    font-size:x-small;
+    color:white;
+    padding:10px;
+    padding-right:25px;
+    padding-left:25px;
+    position:absolute;
+    left:300px;
+}
+input[type=text],input[type=number],select
+{
+    width:394px;
+    height:30px;
+    padding-left:10px;
+    padding-right:10px;
+}

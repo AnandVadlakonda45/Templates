@@ -1,0 +1,49 @@
+#id1
+{
+    width:800px;
+    height:1200px;
+    border:0px solid;
+    position:absolute;
+    left:400px;
+    top:50px;
+}
+#id2
+{
+    font-size:50px;
+    margin-left:150px;
+    color:red;
+    
+}
+#id3
+{
+    font-size:20px;
+    
+}
+h3
+{
+    margin-left:250px;
+}
+.c1
+{
+    margin-left:20px;
+}
+input[type=text],input[type=email]
+{
+    width:70%;
+    position:absolute;
+    left:220px;
+    height:30px;
+    
+}
+input[type=date],input[type=number]
+{
+    position: absolute;
+    left:220px;
+    width:40%;
+    height:30px;
+}
+#id4
+{
+    font-size: large;
+    margin-left: 230px;
+}

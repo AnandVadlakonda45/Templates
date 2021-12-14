@@ -1,0 +1,99 @@
+#id1
+{
+    width:700px;
+    height:700px;
+    border:0px solid;
+    position:absolute;
+    left:500px;
+}
+#id2
+{
+    width:100%;
+    height:50px;
+    background-color: red;
+    padding-top:5px;
+    padding-bottom:5px;
+    font-size: 40px;
+    margin-top:-1px;
+    margin-left:0px;
+    padding-left:1px;
+    color:white;
+    font-family:cursive;
+}
+h1,h4
+{
+    margin-left:20px;
+
+}
+.c1
+{
+    margin-left:20px;
+}
+#id4
+{
+    width:50px;
+    height:25px;
+    margin-left:20px;
+}
+#id5
+{
+    width:130px;
+    height:25px;
+}
+#id6
+{
+ width:180px;
+ height:25px;
+}
+#id7
+{
+    margin-left:80px;
+
+}
+#id8
+{
+    margin-left:140px;
+    
+}
+#id9
+{
+    margin-left:80px;
+    
+}
+#id10
+{
+    margin-left:20px;
+    
+}
+input[type=Address]
+{
+    width:90%;
+    height:25px;
+    margin-left:20px;
+}
+input[type=name],input[type=email]
+{
+    width:43%;
+    height:25px;
+    margin-left:20px;
+}
+#id11
+{
+    margin-left:300px;
+}
+#id12
+{
+    margin-left:215px;
+}
+#id13
+{
+    width:50px;
+    height:25px;
+}
+hr{
+    
+    width:630px;
+    position:relative;
+    left:-15px;
+
+}
